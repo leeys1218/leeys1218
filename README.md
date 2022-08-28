@@ -20,7 +20,7 @@
 </p>
 
 
-<h4>(또한 입문자 수준😂)</h4>
+<h4>AI(또한 입문자 수준😂)</h4>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
